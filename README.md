@@ -1,5 +1,5 @@
 # Day-1-of-100---Band-name-generator
-Day 1 of 100 days of code Python challenge with Angela Yu
+Day 1 of 100 days of code Python challenge with Angela Yu, Udemy Course
 
 Beginner friendly project that generates a band name based on user inputs
 
